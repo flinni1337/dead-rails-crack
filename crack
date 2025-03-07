@@ -11,7 +11,7 @@ end
 local Window = Rayfield:CreateWindow({
    Name = "xueta crack by flinni",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-   LoadingTitle = "Wait",
+   LoadingTitle = "wait for xueten",
    LoadingSubtitle = "by flinni",
    Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
